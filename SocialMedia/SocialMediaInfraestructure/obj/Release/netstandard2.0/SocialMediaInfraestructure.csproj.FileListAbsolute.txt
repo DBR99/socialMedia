@@ -1,0 +1,12 @@
+C:\Users\Dbaron\source\repos\SocialMedia\SocialMediaInfraestructure\bin\Release\netstandard2.0\SocialMediaInfraestructure.deps.json
+C:\Users\Dbaron\source\repos\SocialMedia\SocialMediaInfraestructure\bin\Release\netstandard2.0\SocialMediaInfraestructure.dll
+C:\Users\Dbaron\source\repos\SocialMedia\SocialMediaInfraestructure\bin\Release\netstandard2.0\SocialMediaInfraestructure.pdb
+C:\Users\Dbaron\source\repos\SocialMedia\SocialMediaInfraestructure\bin\Release\netstandard2.0\SocialMediaCore.dll
+C:\Users\Dbaron\source\repos\SocialMedia\SocialMediaInfraestructure\bin\Release\netstandard2.0\SocialMediaCore.pdb
+C:\Users\Dbaron\source\repos\SocialMedia\SocialMediaInfraestructure\obj\Release\netstandard2.0\SocialMediaInfraestructure.csprojAssemblyReference.cache
+C:\Users\Dbaron\source\repos\SocialMedia\SocialMediaInfraestructure\obj\Release\netstandard2.0\SocialMediaInfraestructure.AssemblyInfoInputs.cache
+C:\Users\Dbaron\source\repos\SocialMedia\SocialMediaInfraestructure\obj\Release\netstandard2.0\SocialMediaInfraestructure.AssemblyInfo.cs
+C:\Users\Dbaron\source\repos\SocialMedia\SocialMediaInfraestructure\obj\Release\netstandard2.0\SocialMediaInfraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Dbaron\source\repos\SocialMedia\SocialMediaInfraestructure\obj\Release\netstandard2.0\SocialMediaInfraestructure.csproj.CopyComplete
+C:\Users\Dbaron\source\repos\SocialMedia\SocialMediaInfraestructure\obj\Release\netstandard2.0\SocialMediaInfraestructure.dll
+C:\Users\Dbaron\source\repos\SocialMedia\SocialMediaInfraestructure\obj\Release\netstandard2.0\SocialMediaInfraestructure.pdb
